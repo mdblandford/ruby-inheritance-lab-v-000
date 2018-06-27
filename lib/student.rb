@@ -9,7 +9,4 @@ attr_accessor :knowledge
     @knowledge << string
   end
 
-  #def knowledge
-  #  @knowledge
-  #end
 end
